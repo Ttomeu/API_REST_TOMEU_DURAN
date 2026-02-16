@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "Nom": "Chimchar",
+    "Tipo": "foc, lucha",
+    "atac" : 30,
+    "vida": 60
+  },
+  {
+    "id": 2,
+    "Nom": "Turtwig",
+    "Tipo": "planta",
+    "atac" : 25,
+    "vida": 26
+  },
+  {
+    "id": 3,
+    "Nom": "Piplut",
+    "Tipo": "Aigua",
+    "atac" : 15,
+    "vida": 30
+  },
+  {
+    "id": 4,
+    "Nom": "Luxray",
+    "Tipo": "electric",
+    "atac" : 60,
+    "vida": 120
+  },
+  {
+    "id": 5,
+    "Nom": "Gengar",
+    "Tipo": "Fantasma | Veneno",
+    "atac" : 40,
+    "vida": 80
+  },
+  {
+    "id": 6,
+    "Nom": "Palkia",
+    "Tipo": "Aigua | Dragon",
+    "atac" : 120,
+    "vida": 250
+  },
+  {
+    "id": 7,
+    "Nom": "Dialga",
+    "Tipo": "Ferro | Dragon",
+    "atac" : 120,
+    "vida": 250
+  },
+  {
+    "id": 8,
+    "Nom": "Garchomp",
+    "Tipo": "Terra | Dragon",
+    "atac" : 60,
+    "vida": 120
+  },
+  {
+    "id": 9,
+    "Nom": "Sibo",
+    "Tipo": "Veneno",
+    "atac" : 120,
+    "vida": 250
+
+  }
+
+]
